@@ -3,7 +3,8 @@
     "name": "Goldthrone Seamstress",
     "cost": "2W",
     "color": "W",
-    "type": "Creature - Faerie Peasant",
+    "type": "Creature",
+    "subtype": "Faerie Peasant",
     "oracle": "Flying\nWhenever another nontoken creature you control enters, create a colorless artifact Equipment token named Scissors with equip 2 and \"Equipped creature gets +1/+1.\"",
     "power": 2,
     "toughness": 2
@@ -13,12 +14,13 @@
     "name": "Shadewood Guards",
     "cost": "2B",
     "color": "B",
-    "type": "Creature - Faerie Knight",
+    "type": "Creature",
+    "subtype": "Faerie Knight",
     "oracle": "Flying\nWhenever this creature attacks, you may sacrifice an artifact or creature. If you do, each opponent loses 1 life and you gain 1 life.",
     "power": 2,
     "toughness": 2,
     "adventure_name" : "Draw Blood",
-    "adventure_type" : "Sorcery - Adventure",
+    "adventure_type" : "Sorcery",
     "adventure_oracle" : "Each opponent loses 1 life. Create a Blood token."
     },
 
@@ -44,5 +46,14 @@
     "color": "C",
     "type": "Artifact",
     "oracle": "{T}: Add one mana of any color. You can't use this mana to cast spells from your hand."
+    },
+
+    "Shoalcaster's Coat": {
+    "name": "Shoalcaster's Coat",
+    "cost": "3R",
+    "color": "R",
+    "type": "Artifact",
+    "subtype": "Equipment",
+    "oracle": "Job Select\nEquipped creature gets +2/+2 and has \"Whenever you play a land or cast a spell from anywhere other than your hand, this creature deals 2 damage to each opponent.\"\nEquip {2}"
     }
 }
