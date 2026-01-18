@@ -1,0 +1,48 @@
+{
+    "Goldthrone Seamstress": {
+    "name": "Goldthrone Seamstress",
+    "cost": "2W",
+    "color": "W",
+    "type": "Creature - Faerie Peasant",
+    "oracle": "Flying\nWhenever another nontoken creature you control enters, create a colorless artifact Equipment token named Scissors with equip 2 and \"Equipped creature gets +1/+1.\"",
+    "power": 2,
+    "toughness": 2
+    },
+
+    "Shadewood Guards": {
+    "name": "Shadewood Guards",
+    "cost": "2B",
+    "color": "B",
+    "type": "Creature - Faerie Knight",
+    "oracle": "Flying\nWhenever this creature attacks, you may sacrifice an artifact or creature. If you do, each opponent loses 1 life and you gain 1 life.",
+    "power": 2,
+    "toughness": 2,
+    "adventure_name" : "Draw Blood",
+    "adventure_type" : "Sorcery - Adventure",
+    "adventure_oracle" : "Each opponent loses 1 life. Create a Blood token."
+    },
+
+    "Blessings of Naminé": {
+    "name": "Blessings of Naminé",
+    "cost": "1W",
+    "color": "W",
+    "type": "Sorcery",
+    "oracle": "Each player draws two cards, then each opponent discards two cards."
+    },
+
+    "Impulsive Tutor": {
+    "name": "Impulsive Tutor",
+    "cost": "2R",
+    "color": "R",
+    "type": "Sorcery",
+    "oracle": "Search your library for a card, exile it, then shuffle. You may play that card this turn."
+    },
+
+    "ParaMox": {
+    "name": "ParaMox",
+    "cost": "0",
+    "color": "C",
+    "type": "Artifact",
+    "oracle": "{T}: Add one mana of any color. You can't use this mana to cast spells from your hand."
+    }
+}
