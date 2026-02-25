@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Event Details</title>
+        <link rel="stylesheet" href="css/event.css" />
+        <span id="event"></span>
+    </head>
+
+    <body>
+        <header>
+            <h1 id="name">Event Name</h1>
+            <a href="../index.html">Back to Home</a>
+        </header>
+        <div id="event-details">
+            <div id="player-list">
+                <h2>Players</h2>
+                <table id="players-table">
+                    <tr><th>Name</th><th>Deck</th><th>Result</th></tr>
+                </table>
+        </div>
+        <script>
+            const queryString = window.location.search;
+            const urlParams = new URLSearchParams(queryString);
+            const event_id = urlParams.get('date');
+            
+            document.getElementById("name").innerText = "Event on " + event_id.replaceAll("_", "/");
+
+            const eventJson = fetch('../Data/Events/'+event_id+'/event.json')
+                .then(response => response.json())
+                .then(data => {
+                    for (const player in data.players) {
+                        const record = data.players[player].record;
+                        const result = record[0] + " - " + record[1];
+                        const table = document.getElementById("players-table");
+                        const row = table.insertRow();
+                        row.insertCell(0).innerText = player;
+                        row.insertCell(1).innerHTML = '<a href="deck.html?player='+encodeURIComponent(player)+'&date='+event_id+'">View Deck</a>';
+                        row.insertCell(2).innerText = result;
+                    }
+                })
+        </script>
+    </body>
+
+</html>

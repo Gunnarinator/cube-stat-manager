@@ -1,0 +1,48 @@
+/*
+Source - https://stackoverflow.com/a/51974170
+Posted by Istvan
+Retrieved 2026-02-19, License - CC BY-SA 4.0
+*/
+
+
+.subheader {
+    font-style: italic;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.white {
+    background-color: #f5f5dc; /* Creamy white color */
+}
+.blue {
+    background-color: #add8e6; /* Light blue color */
+}
+.black {
+    background-color: #d3d3d3; /* Light gray color */
+}
+.red {
+    background-color: #ffcccb; /* Light red color */
+}
+.green {
+    background-color: #90ee90; /* Light green color */
+}
+.multicolor{
+    background-color: lightyellow; /* Light yellow color */
+}
+.colorless{
+    background-color: lightgray; /* Light gray color */
+}
+.color-header {
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    margin-top: 10px;
+    float:left;
+    width: calc(100% / 8);
+}
+
+.card-cell {
+    text-align: left;
+    font-weight: normal;
+    border: 1px black solid;
+}

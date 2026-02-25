@@ -1,59 +1,71 @@
 {
     "Goldthrone Seamstress": {
-    "name": "Goldthrone Seamstress",
-    "cost": "2W",
-    "color": "W",
-    "type": "Creature",
-    "subtype": "Faerie Peasant",
-    "oracle": "Flying\nWhenever another nontoken creature you control enters, create a colorless artifact Equipment token named Scissors with equip 2 and \"Equipped creature gets +1/+1.\"",
-    "power": 2,
-    "toughness": 2
+        "name": "Goldthrone Seamstress",
+        "mana_cost": "{2}{W}",
+        "cmc": 3,
+        "colors": [
+            "W"
+        ],
+        "type_line": "Creature",
+        "subtype": "Faerie Peasant",
+        "oracle": "Flying\nWhenever another nontoken creature you control enters, create a colorless artifact Equipment token named Scissors with equip 2 and \"Equipped creature gets +1/+1.\"",
+        "power": 2,
+        "toughness": 2
     },
-
     "Shadewood Guards": {
-    "name": "Shadewood Guards",
-    "cost": "2B",
-    "color": "B",
-    "type": "Creature",
-    "subtype": "Faerie Knight",
-    "oracle": "Flying\nWhenever this creature attacks, you may sacrifice an artifact or creature. If you do, each opponent loses 1 life and you gain 1 life.",
-    "power": 2,
-    "toughness": 2,
-    "adventure_name" : "Draw Blood",
-    "adventure_type" : "Sorcery",
-    "adventure_oracle" : "Each opponent loses 1 life. Create a Blood token."
+        "name": "Shadewood Guards",
+        "mana_cost": "{2}{B}",
+        "cmc": 3,
+        "colors": [
+            "B"
+        ],
+        "type_line": "Creature - Faerie Knight",
+        "oracle_text": "Flying\nWhenever this creature attacks, you may sacrifice an artifact or creature. If you do, each opponent loses 1 life and you gain 1 life.",
+        "power": 2,
+        "toughness": 2,
+        "adventure_name": "Draw Blood",
+        "adventure_mana_cost": "{B}",
+        "adventure_cmc": 1,
+        "adventure_color": "{B}",
+        "adventure_type": "Sorcery",
+        "adventure_oracle": "Each opponent loses 1 life. Create a Blood token."
     },
-
-    "Blessings of Naminé": {
-    "name": "Blessings of Naminé",
-    "cost": "1W",
-    "color": "W",
-    "type": "Sorcery",
-    "oracle": "Each player draws two cards, then each opponent discards two cards."
+    "Blessings from Naminé": {
+        "name": "Blessings from Naminé",
+        "mana_cost": "1W",
+        "cmc": 2,
+        "colors": ["W"
+        ],
+        "type_line": "Sorcery",
+        "oracle": "Each player draws two cards, then each opponent discards two cards."
     },
-
     "Impulsive Tutor": {
-    "name": "Impulsive Tutor",
-    "cost": "2R",
-    "color": "R",
-    "type": "Sorcery",
-    "oracle": "Search your library for a card, exile it, then shuffle. You may play that card this turn."
+        "name": "Impulsive Tutor",
+        "mana_cost": "{2}{R}",
+        "cmc": 3,
+        "colors": [
+            "R"
+        ],
+        "type_line": "Sorcery",
+        "oracle": "Search your library for a card, exile it, then shuffle. You may play that card this turn."
     },
-
     "ParaMox": {
-    "name": "ParaMox",
-    "cost": "0",
-    "color": "C",
-    "type": "Artifact",
-    "oracle": "{T}: Add one mana of any color. You can't use this mana to cast spells from your hand."
+        "name": "ParaMox",
+        "mana_cost": "{0}",
+        "cmc": 0,
+        "colors": "",
+        "type_line": "Artifact",
+        "oracle": "{T}: Add one mana of any color. You can't use this mana to cast spells from your hand."
     },
-
     "Shoalcaster's Coat": {
-    "name": "Shoalcaster's Coat",
-    "cost": "3R",
-    "color": "R",
-    "type": "Artifact",
-    "subtype": "Equipment",
-    "oracle": "Job Select\nEquipped creature gets +2/+2 and has \"Whenever you play a land or cast a spell from anywhere other than your hand, this creature deals 2 damage to each opponent.\"\nEquip {2}"
+        "name": "Shoalcaster's Coat",
+        "mana_cost": "{3}{R}",
+        "cmc": 4,
+        "colors": [
+            "R"
+        ],
+        "type_line": "Artifact",
+        "subtype": "Equipment",
+        "oracle": "Job Select\nEquipped creature gets +2/+2 and has \"Whenever you play a land or cast a spell from anywhere other than your hand, this creature deals 2 damage to each opponent.\"\nEquip {2}"
     }
 }

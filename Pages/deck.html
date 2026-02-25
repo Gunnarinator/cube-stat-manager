@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>Event Details</title>
+        <link rel="stylesheet" href="css/event.css" />
+        <span id="event"></span>
+    </head>
+
+    <body>
+        <header>
+            <h1 id="name">Event Name</h1>
+            <a href="../index.html">Back to Home</a>
+            <a id="eventBackLink" href="">Back to Event Page</a>
+        </header>
+        <div id="event-details">
+            <div id="Details">
+                <h3 id="record">Record: </h3>
+                <h3 id="colors">Colors: </h3>
+            </div>
+            <div id="decklist">
+                <h2>Decklist</h2>
+                <table id="deck-table">
+                </table>
+        </div>
+        <script>
+            const queryString = window.location.search;
+            const urlParams = new URLSearchParams(queryString);
+            const event_id = urlParams.get('date');
+            const player_name = urlParams.get('player');
+            
+            document.getElementById("eventBackLink").href = "event.html?date="+event_id;
+            document.getElementById("name").innerText = "Deck By " + player_name + " at Event on " + event_id.replaceAll("_", "/");
+
+            const eventJson = fetch('../Data/Events/'+event_id+'/event.json')
+                .then(response => response.json())
+                .then(data => {
+                    const record = data.players[player_name].record;
+                    document.getElementById("record").innerText = "Record: " + record[0] + " - " + record[1];
+                    data.decklists[player_name].forEach(card => {
+                        const table = document.getElementById("deck-table");
+                        const row = table.insertRow();
+                        row.insertCell(0).innerHTML = '<a href="card.html?cardName='+encodeURIComponent(card)+'">'+card+'</a>';
+                    });
+                })
+        </script>
+    </body>
+
+</html>

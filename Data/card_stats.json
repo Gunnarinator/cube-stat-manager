@@ -1,0 +1,3824 @@
+{
+    "Fire Magic": {
+        "name": "Fire Magic",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Torch the Tower": {
+        "name": "Torch the Tower",
+        "record": [
+            5,
+            2
+        ],
+        "win_rate": 0.714,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ],
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Fatal Push": {
+        "name": "Fatal Push",
+        "record": [
+            6,
+            1
+        ],
+        "win_rate": 0.857,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Lightning Bolt": {
+        "name": "Lightning Bolt",
+        "record": [
+            6,
+            1
+        ],
+        "win_rate": 0.857,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Burst Lightning": {
+        "name": "Burst Lightning",
+        "record": [
+            5,
+            2
+        ],
+        "win_rate": 0.714,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ],
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Reanimate": {
+        "name": "Reanimate",
+        "record": [
+            6,
+            1
+        ],
+        "win_rate": 0.857,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Zeyowa Lava-Tongue": {
+        "name": "Zeyowa Lava-Tongue",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Black Mage's Rod": {
+        "name": "Black Mage's Rod",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Thing in the Ice": {
+        "name": "Thing in the Ice",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Ice Magic": {
+        "name": "Ice Magic",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Chainsaw": {
+        "name": "Chainsaw",
+        "record": [
+            5,
+            2
+        ],
+        "win_rate": 0.714,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ],
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Cryogen Relic": {
+        "name": "Cryogen Relic",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Halo Forager": {
+        "name": "Halo Forager",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Stock Up": {
+        "name": "Stock Up",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Shadewood Guards": {
+        "name": "Shadewood Guards",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Ty Lee, Chi Blocker": {
+        "name": "Ty Lee, Chi Blocker",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Kiora, the Rising Tide": {
+        "name": "Kiora, the Rising Tide",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Enduring Curiosity": {
+        "name": "Enduring Curiosity",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Evil Reawakened": {
+        "name": "Evil Reawakened",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Fury": {
+        "name": "Fury",
+        "record": [
+            5,
+            2
+        ],
+        "win_rate": 0.714,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ],
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Anticausal Vestige": {
+        "name": "Anticausal Vestige",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Malboro": {
+        "name": "Malboro",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Maelstrom Wanderer": {
+        "name": "Maelstrom Wanderer",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Archon of Cruelty": {
+        "name": "Archon of Cruelty",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Misty Rainforest": {
+        "name": "Misty Rainforest",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Wooded Foothills": {
+        "name": "Wooded Foothills",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Pearlescent Cove": {
+        "name": "Pearlescent Cove",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Undercity Sewers": {
+        "name": "Undercity Sewers",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Ziatora's Proving Grounds": {
+        "name": "Ziatora's Proving Grounds",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Thundering Falls": {
+        "name": "Thundering Falls",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Commercial District": {
+        "name": "Commercial District",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Scalding Tarn": {
+        "name": "Scalding Tarn",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Xander's Lounge": {
+        "name": "Xander's Lounge",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Spell Pierce": {
+        "name": "Spell Pierce",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Aaron"
+            ]
+        ]
+    },
+    "Attuned Hunter": {
+        "name": "Attuned Hunter",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Diplomatic Relations": {
+        "name": "Diplomatic Relations",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Lumbering Worldwagon": {
+        "name": "Lumbering Worldwagon",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Coordinated Clobbering": {
+        "name": "Coordinated Clobbering",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Pawpatch Formation": {
+        "name": "Pawpatch Formation",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Diamond Weapon": {
+        "name": "Diamond Weapon",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Scute Swarm": {
+        "name": "Scute Swarm",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Tireless Tracker": {
+        "name": "Tireless Tracker",
+        "record": [
+            4,
+            3
+        ],
+        "win_rate": 0.571,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Mirrored Lotus": {
+        "name": "Mirrored Lotus",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Innkeeper's Talent": {
+        "name": "Innkeeper's Talent",
+        "record": [
+            4,
+            3
+        ],
+        "win_rate": 0.571,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Pick Your Poison": {
+        "name": "Pick Your Poison",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Brainstorm": {
+        "name": "Brainstorm",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Jolrael, Mwonvuli Recluse": {
+        "name": "Jolrael, Mwonvuli Recluse",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Malleable Impostor": {
+        "name": "Malleable Impostor",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Three Steps Ahead": {
+        "name": "Three Steps Ahead",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Lonis, Genetics Expert": {
+        "name": "Lonis, Genetics Expert",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Abhorrent Oculus": {
+        "name": "Abhorrent Oculus",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Talion's Messenger": {
+        "name": "Talion's Messenger",
+        "record": [
+            2,
+            5
+        ],
+        "win_rate": 0.286,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ],
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Kellan, Inquisitive Prodigy": {
+        "name": "Kellan, Inquisitive Prodigy",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Earthrumbler": {
+        "name": "Earthrumbler",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Astrologian's Planisphere": {
+        "name": "Astrologian's Planisphere",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Bonny Pall, Clearcutter": {
+        "name": "Bonny Pall, Clearcutter",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Meltstrider's Resolve": {
+        "name": "Meltstrider's Resolve",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Kellan, the Kid": {
+        "name": "Kellan, the Kid",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Ben"
+            ]
+        ]
+    },
+    "Zoetic Glyph": {
+        "name": "Zoetic Glyph",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Ghost Vacuum": {
+        "name": "Ghost Vacuum",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Thraben Charm": {
+        "name": "Thraben Charm",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Subtlety": {
+        "name": "Subtlety",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Possessed Goat": {
+        "name": "Possessed Goat",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Mendicant Core, Guidelight": {
+        "name": "Mendicant Core, Guidelight",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Ride's End": {
+        "name": "Ride's End",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Thopter Fabricator": {
+        "name": "Thopter Fabricator",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Cryptic Command": {
+        "name": "Cryptic Command",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Into the Flood Maw": {
+        "name": "Into the Flood Maw",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Exorcise": {
+        "name": "Exorcise",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Refute": {
+        "name": "Refute",
+        "record": [
+            3,
+            4
+        ],
+        "win_rate": 0.429,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ],
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Giant Koi": {
+        "name": "Giant Koi",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Dovin, Grand Arbiter": {
+        "name": "Dovin, Grand Arbiter",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Mischievous Mystic": {
+        "name": "Mischievous Mystic",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Quantum Riddler": {
+        "name": "Quantum Riddler",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Builder's Talent": {
+        "name": "Builder's Talent",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Airbender's Reversal": {
+        "name": "Airbender's Reversal",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Omniscience": {
+        "name": "Omniscience",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Frantic Search": {
+        "name": "Frantic Search",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Voyage Home": {
+        "name": "Voyage Home",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Counterspell": {
+        "name": "Counterspell",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Carrot Cake": {
+        "name": "Carrot Cake",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Abuelo's Awakening": {
+        "name": "Abuelo's Awakening",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Salvation Engine": {
+        "name": "Salvation Engine",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Dance of the Manse": {
+        "name": "Dance of the Manse",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Lutri, the Spellchaser": {
+        "name": "Lutri, the Spellchaser",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Polluted Delta": {
+        "name": "Polluted Delta",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Flooded Strand": {
+        "name": "Flooded Strand",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Raugrin Triome": {
+        "name": "Raugrin Triome",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Raffine's Tower": {
+        "name": "Raffine's Tower",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Meticulous Archive": {
+        "name": "Meticulous Archive",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Irrigated Farmland": {
+        "name": "Irrigated Farmland",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Wedding Announcement": {
+        "name": "Wedding Announcement",
+        "record": [
+            2,
+            2
+        ],
+        "win_rate": 0.5,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Brownie"
+            ]
+        ]
+    },
+    "Kona, Rescue Beastie": {
+        "name": "Kona, Rescue Beastie",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Ornery Tumblewagg": {
+        "name": "Ornery Tumblewagg",
+        "record": [
+            4,
+            3
+        ],
+        "win_rate": 0.571,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "The Regalia": {
+        "name": "The Regalia",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Goldthrone Seamstress": {
+        "name": "Goldthrone Seamstress",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Springheart Nantuko": {
+        "name": "Springheart Nantuko",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Reluctant Role Model": {
+        "name": "Reluctant Role Model",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Eusocial Engineering": {
+        "name": "Eusocial Engineering",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Birds of Paradise": {
+        "name": "Birds of Paradise",
+        "record": [
+            4,
+            3
+        ],
+        "win_rate": 0.571,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Snakeskin Veil": {
+        "name": "Snakeskin Veil",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Loot, Exuberant Explorer": {
+        "name": "Loot, Exuberant Explorer",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Tarmogoyf": {
+        "name": "Tarmogoyf",
+        "record": [
+            4,
+            3
+        ],
+        "win_rate": 0.571,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Ajani, Nacatl Pariah": {
+        "name": "Ajani, Nacatl Pariah",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Cosmogrand Zenith": {
+        "name": "Cosmogrand Zenith",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Enduring Innocence": {
+        "name": "Enduring Innocence",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Evolution Witness": {
+        "name": "Evolution Witness",
+        "record": [
+            4,
+            3
+        ],
+        "win_rate": 0.571,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Maul of the Skyclaves": {
+        "name": "Maul of the Skyclaves",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Sisterhood of Karn": {
+        "name": "Sisterhood of Karn",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Brimaz, King of Oreskos": {
+        "name": "Brimaz, King of Oreskos",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Zack Fair": {
+        "name": "Zack Fair",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Summon: Fenrir": {
+        "name": "Summon: Fenrir",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Veteran Survivor": {
+        "name": "Veteran Survivor",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Drix Fatemaker": {
+        "name": "Drix Fatemaker",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Rift Sower": {
+        "name": "Rift Sower",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Scattered Groves": {
+        "name": "Scattered Groves",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Foreboding Landscape": {
+        "name": "Foreboding Landscape",
+        "record": [
+            1,
+            3
+        ],
+        "win_rate": 0.25,
+        "times_played": [
+            [
+                "2026_1_17",
+                "David"
+            ]
+        ]
+    },
+    "Lurrus of the Dream-Den": {
+        "name": "Lurrus of the Dream-Den",
+        "record": [
+            6,
+            1
+        ],
+        "win_rate": 0.857,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Valgavoth's Faithful": {
+        "name": "Valgavoth's Faithful",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Solitude": {
+        "name": "Solitude",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Monstrous Rage": {
+        "name": "Monstrous Rage",
+        "record": [
+            6,
+            1
+        ],
+        "win_rate": 0.857,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Phlage, Titan of Fire's Fury": {
+        "name": "Phlage, Titan of Fire's Fury",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Arid Mesa": {
+        "name": "Arid Mesa",
+        "record": [
+            6,
+            1
+        ],
+        "win_rate": 0.857,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ],
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Laughing Mad": {
+        "name": "Laughing Mad",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Lethal Scheme": {
+        "name": "Lethal Scheme",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Lion Sash": {
+        "name": "Lion Sash",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Guide of Souls": {
+        "name": "Guide of Souls",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Jacked Rabbit": {
+        "name": "Jacked Rabbit",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Geological Appraiser": {
+        "name": "Geological Appraiser",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Vein Ripper": {
+        "name": "Vein Ripper",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Chromatic Star": {
+        "name": "Chromatic Star",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Luminarch Aspirant": {
+        "name": "Luminarch Aspirant",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Get Lost": {
+        "name": "Get Lost",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Split Up": {
+        "name": "Split Up",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Inti, Seneschal of the Sun": {
+        "name": "Inti, Seneschal of the Sun",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Feed the Cycle": {
+        "name": "Feed the Cycle",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Lightning Skelemental": {
+        "name": "Lightning Skelemental",
+        "record": [
+            5,
+            2
+        ],
+        "win_rate": 0.714,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ],
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Saw in Half": {
+        "name": "Saw in Half",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Fight On!": {
+        "name": "Fight On!",
+        "record": [
+            4,
+            3
+        ],
+        "win_rate": 0.571,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ],
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Fear of Missing Out": {
+        "name": "Fear of Missing Out",
+        "record": [
+            5,
+            2
+        ],
+        "win_rate": 0.714,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ],
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Duress": {
+        "name": "Duress",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Savai Triome": {
+        "name": "Savai Triome",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Elegant Parlor": {
+        "name": "Elegant Parlor",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Glittering Massif": {
+        "name": "Glittering Massif",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Shattered Landscape": {
+        "name": "Shattered Landscape",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Deceptive Landscape": {
+        "name": "Deceptive Landscape",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Archangel Avacyn": {
+        "name": "Archangel Avacyn",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Puppeteer Clique": {
+        "name": "Puppeteer Clique",
+        "record": [
+            3,
+            1
+        ],
+        "win_rate": 0.75,
+        "times_played": [
+            [
+                "2026_1_17",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Tamiyo, inquisitive student": {
+        "name": "Tamiyo, inquisitive student",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "halo forager": {
+        "name": "halo forager",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "glen elendra guardian": {
+        "name": "glen elendra guardian",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "ghost vacuum": {
+        "name": "ghost vacuum",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "saw in half": {
+        "name": "saw in half",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "tegwyll, duke of splendor": {
+        "name": "tegwyll, duke of splendor",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "kiora, the rising tide": {
+        "name": "kiora, the rising tide",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "mischievous mystic": {
+        "name": "mischievous mystic",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "feed the cycle": {
+        "name": "feed the cycle",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "stock up": {
+        "name": "stock up",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "enduring curiosity": {
+        "name": "enduring curiosity",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "drana the last bloodchief": {
+        "name": "drana the last bloodchief",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "spell stutter": {
+        "name": "spell stutter",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "Thing in the Ice // Awoken Horror": {
+        "name": "thing in the ice // awoken horror",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "lethal scheme": {
+        "name": "lethal scheme",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "fact or fiction": {
+        "name": "fact or fiction",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "faerie vandal": {
+        "name": "faerie vandal",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "astrologian's planisphere": {
+        "name": "astrologian's planisphere",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "puppeteer's clique": {
+        "name": "puppeteer's clique",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "carnage interpreter": {
+        "name": "carnage interpreter",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "scion of oona": {
+        "name": "scion of oona",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "lively dirge": {
+        "name": "lively dirge",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "withering torment": {
+        "name": "withering torment",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "three steps ahead": {
+        "name": "three steps ahead",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "lutri the spellchaser": {
+        "name": "lutri the spellchaser",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "flooded strand": {
+        "name": "flooded strand",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "zagoth triome": {
+        "name": "zagoth triome",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "contaminated landscape": {
+        "name": "contaminated landscape",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Brownie"
+            ]
+        ]
+    },
+    "Deal Broker": {
+        "name": "Deal Broker",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Nova Hellkite": {
+        "name": "Nova Hellkite",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Griselbrand": {
+        "name": "Griselbrand",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Tragic Slip": {
+        "name": "Tragic Slip",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Esper Origins": {
+        "name": "Esper Origins",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Victimize": {
+        "name": "Victimize",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Not Dead After All": {
+        "name": "Not Dead After All",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Overlord of the Hauntwoods": {
+        "name": "Overlord of the Hauntwoods",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Raucous Theater": {
+        "name": "Raucous Theater",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Twisted Landscape": {
+        "name": "Twisted Landscape",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Animate Dead": {
+        "name": "Animate Dead",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Bitter Triumph": {
+        "name": "Bitter Triumph",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Gyruda, Doom of Depths": {
+        "name": "Gyruda, Doom of Depths",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Hangman": {
+        "name": "Hangman",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Gladiolus Amicitia": {
+        "name": "Gladiolus Amicitia",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Underground Mortuary": {
+        "name": "Underground Mortuary",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Phylath, World-Sculptor": {
+        "name": "Phylath, World-Sculptor",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Ziatora's Proving Ground": {
+        "name": "Ziatora's Proving Ground",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Fang, Fearless l'Cie": {
+        "name": "Fang, Fearless l'Cie",
+        "record": [
+            3,
+            0
+        ],
+        "win_rate": 1.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Gunnar"
+            ]
+        ]
+    },
+    "Jolrael, mwonvuli recluse": {
+        "name": "Jolrael, mwonvuli recluse",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "reluctant role model": {
+        "name": "reluctant role model",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "sisterhood of karn": {
+        "name": "sisterhood of karn",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "malevolent rumble": {
+        "name": "malevolent rumble",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "pick your poison": {
+        "name": "pick your poison",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "maelstrom wanderer": {
+        "name": "maelstrom wanderer",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "blessings from namin\u00c3\u00a9": {
+        "name": "blessings from namin\u00c3\u00a9",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "karador, ghost chieftan": {
+        "name": "karador, ghost chieftan",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "rally the monastery": {
+        "name": "rally the monastery",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "rise's end": {
+        "name": "rise's end",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "enduring innocence": {
+        "name": "enduring innocence",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "dredger's insight": {
+        "name": "dredger's insight",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "bonny pall, clearcutter": {
+        "name": "bonny pall, clearcutter",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "springheart nantuko": {
+        "name": "springheart nantuko",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "loot, exhuberant explorer": {
+        "name": "loot, exhuberant explorer",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "vanille, cheerful l'cie": {
+        "name": "vanille, cheerful l'cie",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "snakeskin veil": {
+        "name": "snakeskin veil",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "Kona, rescue beastie": {
+        "name": "Kona, rescue beastie",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "bushwhack": {
+        "name": "bushwhack",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "drix fatemaker": {
+        "name": "drix fatemaker",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "vein ripper": {
+        "name": "vein ripper",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "valgavoth, terror eater": {
+        "name": "valgavoth, terror eater",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "diamond weapon": {
+        "name": "diamond weapon",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "chocobo racetrack": {
+        "name": "chocobo racetrack",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "shifting woodland": {
+        "name": "shifting woodland",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "scattered groves": {
+        "name": "scattered groves",
+        "record": [
+            0,
+            1
+        ],
+        "win_rate": 0.0,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Mitro"
+            ]
+        ]
+    },
+    "Seething Landscape": {
+        "name": "Seething Landscape",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Collective Brutality": {
+        "name": "Collective Brutality",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Cut Down": {
+        "name": "Cut Down",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Talion, the kindly lord": {
+        "name": "Talion, the kindly lord",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Fetid Pools": {
+        "name": "Fetid Pools",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Stonecutter Serpent": {
+        "name": "Stonecutter Serpent",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Deep Analysis": {
+        "name": "Deep Analysis",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Hypnotic Sprite": {
+        "name": "Hypnotic Sprite",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "High Fae Trickster": {
+        "name": "High Fae Trickster",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Obyra, Dreaming Duelist": {
+        "name": "Obyra, Dreaming Duelist",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Picklock Prankster": {
+        "name": "Picklock Prankster",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Accursed Marauder": {
+        "name": "Accursed Marauder",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Rot-Cursed Rakshasa": {
+        "name": "Rot-Cursed Rakshasa",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Get Out": {
+        "name": "Get Out",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Perilous Landscape": {
+        "name": "Perilous Landscape",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Malleable imposter": {
+        "name": "Malleable imposter",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "counterspell": {
+        "name": "counterspell",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "cryoshatter": {
+        "name": "cryoshatter",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "faebloom Trick": {
+        "name": "faebloom Trick",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "undercity sewer": {
+        "name": "undercity sewer",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "subtlety": {
+        "name": "subtlety",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "mockingbird": {
+        "name": "mockingbird",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "tranquil Landscape": {
+        "name": "tranquil Landscape",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "unearth": {
+        "name": "unearth",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "polluted delta": {
+        "name": "polluted delta",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "faerie mastermind": {
+        "name": "faerie mastermind",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "ty lee, chi blocker": {
+        "name": "ty lee, chi blocker",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "blast zone": {
+        "name": "blast zone",
+        "record": [
+            1,
+            2
+        ],
+        "win_rate": 0.333,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Noah"
+            ]
+        ]
+    },
+    "Nibelheim Aflame": {
+        "name": "Nibelheim Aflame",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Grief": {
+        "name": "Grief",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Etali's Favor": {
+        "name": "Etali's Favor",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Involuntary Employment": {
+        "name": "Involuntary Employment",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Sheoldred's Edict": {
+        "name": "Sheoldred's Edict",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Stab": {
+        "name": "Stab",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Scytheclaw Raptor": {
+        "name": "Scytheclaw Raptor",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Bloodghast": {
+        "name": "Bloodghast",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Tersa Lightshatter": {
+        "name": "Tersa Lightshatter",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Zoyowa Lava-Tongue": {
+        "name": "Zoyowa Lava-Tongue",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Hazoret, Godseeker": {
+        "name": "Hazoret, Godseeker",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Faithless Looting": {
+        "name": "Faithless Looting",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Golbez, Clad in Darkness": {
+        "name": "Golbez, Clad in Darkness",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Alesha, who laughs at Fate": {
+        "name": "Alesha, who laughs at Fate",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Overlord of the Balemurk": {
+        "name": "Overlord of the Balemurk",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Headliner Scarlett": {
+        "name": "Headliner Scarlett",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Clockwork Percussionist": {
+        "name": "Clockwork Percussionist",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    },
+    "Arena of Glory": {
+        "name": "Arena of Glory",
+        "record": [
+            2,
+            1
+        ],
+        "win_rate": 0.667,
+        "times_played": [
+            [
+                "2026_2_5",
+                "Sam"
+            ]
+        ]
+    }
+}

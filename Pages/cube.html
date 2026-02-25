@@ -1,0 +1,24 @@
+<html>
+
+<head></head>
+<title>The Cube</title>
+<link rel="stylesheet" href="css/cube.css" />
+<span id="version"></span>
+</head>
+
+<body>
+    <div id="header">
+        <h1>The Cube</h1>
+        <a href="../index.html">Back to Home</a>
+        <p id="sort-mode">Currently sorting by: <span class="sort-mode-text">Standard Sorting</span></p>
+        <p><a href="cube.html?version=latest&sort=standard">Standard Sorting</a> | <a href="cube.html?version=latest&sort=archetype_tags">Archetype Tags</a> | <a href="cube.html?version=latest&sort=role_tags">Role Tags</a></p>
+
+    </div>
+
+    <!--Modes are probably gonna be like... "standard", "archetype_tags", "role_tags"-->
+    <div id="cube" class="cube" sort_mode="standard"></div>
+
+    <script src="cube.js" type="module"></script>
+</body>
+
+</html>

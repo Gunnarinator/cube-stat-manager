@@ -1,0 +1,34 @@
+div{
+    align-items: center;
+}
+
+.empty{
+    display: none;
+}
+
+.oracle-text{
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #f9f9f9;
+}
+
+img{
+    display: block;
+    width: 320px;
+    height: 440px;
+    margin:auto;
+    float:left;
+    padding:5px;
+}
+
+table{
+    border: 2px solid black;
+    margin:auto;
+}
+
+td{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;}
+

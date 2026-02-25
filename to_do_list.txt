@@ -1,0 +1,10 @@
+- Remove placeholder lands from the txt and the json
+- add placeholder lands to custom
+- add remaining custom arts
+- continue fixing double-faced cards 
+    - color is sketchy and mana value doesn't calculate correctly.
+
+- fix adventure cards (Hypnotic Sprite)
+
+- make a player page
+- make an event page

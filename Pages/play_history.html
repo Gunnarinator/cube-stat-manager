@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>Play History</title>
+        <link rel="stylesheet" href="css/play_history.css" />
+        <span id="card-name"></span>
+    </head>
+
+    <body>
+        <header>
+            <h1 id="name">Play History for Card</h1>
+            <a href="../index.html">Back to Home</a>
+            <a id="cardBackLink" href="">Back to Card Page</a>
+        </header>
+
+        <div id="play-history">
+            <table id="history-table">
+                <tr><th>Event Date</th><th>Player</th><th>Result</th></tr>
+            </table>
+        </div>
+
+        <script>
+            const queryString = window.location.search;
+            const urlParams = new URLSearchParams(queryString);
+            const card_name = urlParams.get('cardName');
+            
+            document.getElementById("name").innerText = "Play History for " + card_name;
+            document.getElementById("cardBackLink").href = "card.html?cardName=" + encodeURIComponent(card_name);
+
+            const historyJson = fetch('../Data/card_stats.json')
+                .then(response => response.json())
+                .then(data => {
+                    const cardHistory = data[card_name];
+                    console.log(cardHistory);
+                    if (cardHistory) {
+                        cardHistory.times_played.forEach(play => {
+                            const table = document.getElementById("history-table");
+                            const row = table.insertRow();
+                            row.insertCell(0).innerHTML = '<a href="event.html?date=' + play[0] + '">' + play[0].replaceAll("_", "/") + '</a>';
+                            row.insertCell(1).innerText = play[1];
+                        });
+                    } else {
+                        const table = document.getElementById("history-table");
+                        const row = table.insertRow();
+                        row.insertCell(0).colSpan = 3;
+                        row.insertCell(0).innerText = "No play history available for this card.";
+                    }
+                });
+        </script>
+    </body>
+</html>

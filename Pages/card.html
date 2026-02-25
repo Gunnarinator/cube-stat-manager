@@ -1,0 +1,193 @@
+<html>
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<head>
+    <title>Epic Card Viewer</title>
+    <link rel="stylesheet" href="css/card.css" />
+    <span id="card"></span>
+</head>
+
+<body>
+    <div id="header">
+        <h1 id="name">Heehoo</h1>
+        <a href="../index.html">Back to Home</a>
+        <a id="cubelist_link" href="cube.html?version=latest">Back to Card List</a>
+    </div>
+    <img id="card-image" title="reanimate.jpg"
+        src="https://cards.scryfall.io/large/front/3/6/368b6903-5fc4-43e7-bd44-46b8107c8bb4.jpg?1738000013" />
+    <img id="card-image2" class="empty"/>
+
+    <h2>Basic Details</h2>
+    <div id="basic-details"></div>
+    <h2>Advanced Stats</h2>
+    <div id="adv-stats"></div>
+
+    <script>
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const card_name = urlParams.get('cardName');
+        console.log(encodeURI(card_name));
+
+        const verqueryString = window.location.search;
+        const verurlParams = new URLSearchParams(queryString);
+        const ver = verurlParams.get('version') || "latest";
+        document.getElementById("cubelist_link").href = "cube.html?version=" + ver;
+        
+
+        const cardJson = fetch('../Data/custom_cards.json')
+            .then(response => response.json())
+            .then(data => {
+                var cardData = data[card_name];
+                if(cardData) {
+                    console.log("Found card in custom data:", cardData);
+                    populateCardDetails(cardData, true);
+                }
+                if (!cardData) {
+                    async function fetchCardByName(cardName) {
+                        try {
+                            // Encode the card name for the URL
+                            const encodedName = encodeURIComponent(cardName);
+                            const url = `https://api.scryfall.com/cards/named?exact=${encodedName}`;
+
+                            // Make the API request
+                            const response = await fetch(url, {
+                                method: 'GET',
+                                headers: {
+                                    // The Origin header is automatically included by browsers
+                                    'Accept': 'application/json'
+                                }
+                            });
+
+                            if (!response.ok) {
+                                // Handle HTTP errors
+                                const errorData = await response.json();
+                                throw new Error(`Scryfall API error: ${errorData.details}`);
+                            }
+
+                            // Parse the JSON response
+                            const cardData = await response.json();
+                            console.log(`Card found: ${cardData.name}, Set: ${cardData.set_name}`);
+                            // You can access other properties like cardData.image_uris.normal
+                            return cardData;
+
+                        } catch (error) {
+                            console.error("Could not fetch card:", error);
+                        }
+                    }
+                    const fetched_data = fetchCardByName(card_name);
+                    fetched_data.then(cardData => {
+                        populateCardDetails(cardData, false);
+                    });
+                }
+            })
+
+            function populateCardDetails(cardData, custom) {
+                console.log(cardData);
+                document.getElementById("name").textContent = cardData.name;
+
+                var cardImage = document.getElementById("card-image");
+                var cardImage2 = document.getElementById("card-image2");
+                
+                if(custom){
+                    cardImage.setAttribute('src', '../Data/custom_arts/' + encodeURI(card_name) + '.png');
+                }
+                else{
+                    if(cardData.image_uris){
+                        cardImage.setAttribute('src', cardData.image_uris.normal);
+                    }
+                    else if (cardData.card_faces) {
+                        cardImage.setAttribute('src', cardData.card_faces[0].image_uris.normal);
+                        cardImage2.setAttribute('src', cardData.card_faces[1].image_uris.normal);
+                        cardImage2.classList.remove('empty');
+                    }
+                }
+
+                function getColors(cardData){
+                    if (cardData.card_faces) {
+                        var retval = "";
+                        cardData.card_faces.forEach(face => {
+                            face.colors.forEach(color => retval += color);
+                        });
+                        return retval;
+                    } else {
+                        return cardData.colors.length > 0 ? cardData.colors.join('') : "Colorless";
+                    }
+                }
+
+                function getManaCost(cardData){
+                    if (cardData.card_faces) {
+                        if(cardData.card_faces.every(face => face.mana_cost != '')) {
+                        return cardData.card_faces.map(face => face.mana_cost).join(" // ");
+                        } else {
+                            return cardData.card_faces[0].mana_cost;
+                        }
+                    } else {
+                        return cardData.mana_cost;
+                    }
+                }
+
+                function getCmc(cardData){
+                    if (cardData.card_faces) {
+                        if (cardData.card_faces.every(face => face.cmc)) {
+                            return cardData.card_faces.map(face => face.cmc).join(" // ");
+                        } else {
+                            return cardData.card_faces[0].cmc;
+                        }
+                    } else {
+                        return cardData.cmc;
+                    }
+                }
+
+                function getOracleText(cardData){
+                    if (cardData.card_faces) {
+                        return cardData.card_faces.map(face => face.oracle_text).join("\n//\n");
+                    } else {
+                        return cardData.oracle_text;
+                    }
+                }
+
+                const basicDetails = `<table>
+                        <tr><td>Name: </td><td>${cardData.name}</td></tr>
+                        <tr><td>Cost: </td><td>${getManaCost(cardData)} (MV ${getCmc(cardData)})</td></tr>
+                        <tr><td>Color: </td><td>${getColors(cardData)}</td></tr>
+                        <tr><td>Type: </td><td>${cardData.type_line}</td></tr></table>
+                        <div class="oracle-text" style="white-space: pre-wrap;"><p>Oracle Text:</p><p>${getOracleText(cardData)}</p></div>
+                        `;
+                document.getElementById("basic-details").innerHTML = basicDetails;
+
+                function colorStat(stat) {
+                    if (stat >= .60) return "green";
+                    else if (stat >= .50) return "orange";
+                    else return "red";
+                }
+
+                const advancedStats = fetch('../Data/card_stats.json')
+                    .then(response => response.json())
+                    .then(statsData => {
+                        const cardStats = statsData[cardData.name];
+                        if (cardStats) {
+                            const advStatsTable = `<table>
+                                <tr><td>Times Picked: </td><td>${cardStats.times_played.length}</td></tr>
+                                <tr><td>Match Win Rate: </td><td style="color: ${colorStat(cardStats.win_rate)}">${cardStats.win_rate ? (cardStats.win_rate*100).toFixed(1) + "%" : "N/A"}</td></tr>
+                                <tr><td colspan="2"><a href="play_history.html?cardName=${encodeURIComponent(cardData.name)}">See Play History</a></td></tr>
+                                </table>`;
+                            document.getElementById("adv-stats").innerHTML = advStatsTable;
+                        } else {
+                            console.log("No stats found for card.");
+                            document.getElementById("adv-stats").innerHTML = "<p>No stats available for this card.</p>";
+                        }
+                    })
+                    .catch(error => {
+                        console.error("Error fetching card stats:", error);
+                        document.getElementById("adv-stats").innerHTML = "<p>Error loading stats.</p>";
+                    });
+            }
+            
+            
+    </script>
+
+    </div>
+
+</html>

@@ -1,0 +1,204 @@
+{
+    "players": {
+        "Brownie": {
+            "record": [
+                2,
+                1
+            ]
+        },
+        "Noah": {
+            "record": [
+                1,
+                2
+            ]
+        },
+        "Mitro": {
+            "record": [
+                0,
+                1
+            ]
+        },
+        "Gunnar": {
+            "record": [
+                3,
+                0
+            ]
+        },
+        "Aaron": {
+            "record": [
+                0,
+                1
+            ]
+        },
+        "Sam": {
+            "record": [
+                2,
+                1
+            ]
+        },
+        "Liam": {
+            "record": [
+                0,
+                1
+            ]
+        },
+        "Dylan": {
+            "record": [
+                0,
+                1
+            ]
+        }
+    },
+    "decklists": {
+        "Brownie": [
+            "Tamiyo, inquisitive student",
+            "halo forager",
+            "glen elendra guardian",
+            "ghost vacuum",
+            "saw in half",
+            "tegwyll, duke of splendor",
+            "kiora, the rising tide",
+            "mischievous mystic",
+            "feed the cycle",
+            "stock up",
+            "enduring curiosity",
+            "drana the last bloodchief",
+            "spell stutter",
+            "thing in the ice",
+            "lethal scheme",
+            "fact or fiction",
+            "faerie vandal",
+            "astrologian's planisphere",
+            "puppeteer's clique",
+            "carnage interpreter",
+            "scion of oona",
+            "lively dirge",
+            "withering torment",
+            "three steps ahead",
+            "lutri the spellchaser",
+            "flooded strand",
+            "zagoth triome",
+            "contaminated landscape"
+        ],
+        "Gunnar": [
+            "Deal Broker",
+            "Nova Hellkite",
+            "Lurrus of the Dream-Den",
+            "Griselbrand",
+            "Tragic Slip",
+            "Esper Origins",
+            "Victimize",
+            "Not Dead After All",
+            "Overlord of the Hauntwoods",
+            "Tarmogoyf",
+            "Tireless Tracker",
+            "Reanimate",
+            "Raucous Theater",
+            "Twisted Landscape",
+            "Animate Dead",
+            "Innkeeper's Talent",
+            "Birds of Paradise",
+            "Bitter Triumph",
+            "Arid Mesa",
+            "Gyruda, Doom of Depths",
+            "Hangman",
+            "Gladiolus Amicitia",
+            "Evolution Witness",
+            "Lightning Bolt",
+            "Ornery Tumblewagg",
+            "Underground Mortuary",
+            "Phylath, World-Sculptor",
+            "Ziatora's Proving Ground",
+            "Monstrous Rage",
+            "Fang, Fearless l'Cie",
+            "Fatal Push"
+        ],
+        "Mitro": [
+            "Jolrael, mwonvuli recluse",
+            "reluctant role model",
+            "sisterhood of karn",
+            "malevolent rumble",
+            "pick your poison",
+            "maelstrom wanderer",
+            "blessings from namin\u00c3\u00a9",
+            "karador, ghost chieftan",
+            "rally the monastery",
+            "rise's end",
+            "enduring innocence",
+            "dredger's insight",
+            "bonny pall, clearcutter",
+            "springheart nantuko",
+            "loot, exhuberant explorer",
+            "vanille, cheerful l'cie",
+            "snakeskin veil",
+            "Kona, rescue beastie",
+            "bushwhack",
+            "drix fatemaker",
+            "vein ripper",
+            "valgavoth, terror eater",
+            "diamond weapon",
+            "chocobo racetrack",
+            "shifting woodland",
+            "scattered groves"
+        ],
+        "Noah": [
+            "Refute",
+            "Seething Landscape",
+            "Collective Brutality",
+            "Fight On!",
+            "Cut Down",
+            "Talion, the kindly lord",
+            "Fetid Pools",
+            "Stonecutter Serpent",
+            "Deep Analysis",
+            "Hypnotic Sprite",
+            "Talion's Messenger",
+            "High Fae Trickster",
+            "Obyra, Dreaming Duelist",
+            "Picklock Prankster",
+            "Accursed Marauder",
+            "Rot-Cursed Rakshasa",
+            "Get Out",
+            "Perilous Landscape",
+            "Malleable impostor",
+            "counterspell",
+            "cryoshatter",
+            "faebloom Trick",
+            "undercity sewer",
+            "subtlety",
+            "mockingbird",
+            "tranquil Landscape",
+            "unearth",
+            "polluted delta",
+            "faerie mastermind",
+            "ty lee, chi blocker",
+            "blast zone"
+        ],
+        "Sam": [
+            "Nibelheim Aflame",
+            "Grief",
+            "Etali's Favor",
+            "Involuntary Employment",
+            "Sheoldred's Edict",
+            "Stab",
+            "Scytheclaw Raptor",
+            "Fury",
+            "Bloodghast",
+            "Fear of Missing Out",
+            "Tersa Lightshatter",
+            "Zoyowa Lava-Tongue",
+            "Chainsaw",
+            "Lightning Skelemental",
+            "Hazoret, Godseeker",
+            "Faithless Looting",
+            "Golbez, Clad in Darkness",
+            "Alesha, who laughs at Fate",
+            "Overlord of the Balemurk",
+            "Torch the Tower",
+            "Headliner Scarlett",
+            "Burst Lightning",
+            "Clockwork Percussionist",
+            "Arena of Glory"
+        ]
+    }
+}
